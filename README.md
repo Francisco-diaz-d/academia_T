@@ -6,3 +6,4 @@ Me encuentro trabajando en un proyecto personal, más adelante se revelran mas d
 
 1. Estoy aprendiendo desarrollo web front-end
 2. Python
+3. DB
